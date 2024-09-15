@@ -1,0 +1,14 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/huy093369/Documents/UTS/Diploma/Semester 2/IPRO002/javafx-sdk-22.0.2/lib/javafx.base.jar",
+        "/Users/huy093369/Documents/UTS/Diploma/Semester 2/IPRO002/javafx-sdk-22.0.2/lib/javafx.controls.jar",
+        "/Users/huy093369/Documents/UTS/Diploma/Semester 2/IPRO002/javafx-sdk-22.0.2/lib/javafx.web.jar",
+        "/Users/huy093369/Documents/UTS/Diploma/Semester 2/IPRO002/javafx-sdk-22.0.2/lib/javafx.swing.jar",
+        "/Users/huy093369/Documents/UTS/Diploma/Semester 2/IPRO002/javafx-sdk-22.0.2/lib/javafx.graphics.jar",
+        "/Users/huy093369/Documents/UTS/Diploma/Semester 2/IPRO002/javafx-sdk-22.0.2/lib/javafx.media.jar",
+        "/Users/huy093369/Documents/UTS/Diploma/Semester 2/IPRO002/javafx-sdk-22.0.2/lib/javafx-swt.jar",
+        "/Users/huy093369/Documents/UTS/Diploma/Semester 2/IPRO002/javafx-sdk-22.0.2/lib/javafx.fxml.jar"
+    ],
+    "editor.fontSize": 8
+}

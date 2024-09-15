@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Project_a1ef3049",
+            "vmArgs": "--module-path \"/Users/huy093369/Documents/UTS/Diploma/Semester 2/IPRO002/javafx-sdk-22.0.2/lib\" --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}
